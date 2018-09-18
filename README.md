@@ -12,16 +12,16 @@
 ```
 ## Examples
 * FFT frequency spectrum
-![fft](docs/fft.png)
+<br/>![fft](docs/fft.png) </br>
 
 * STFT spectrogram
-![stft](docs/stft.png)
+<br/>![stft](docs/stft.png) </br>
 
 * CWT
-![cwt](docs/cwt_mexh.png)
+<br/>![cwt](docs/cwt_mexh.png) </br>
 
 * DWT
-![dwt](docs/dwt_db2.png)
+<br/>![dwt](docs/dwt_db2.png) </br>
 
 ## Material and prerequisite of wavelet analysis
 * FFT zero-padding
