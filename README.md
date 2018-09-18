@@ -13,10 +13,13 @@
 ## Examples
 * FFT frequency spectrum
 ![fft](docs/fft.png)
+
 * STFT spectrogram
 ![stft](docs/stft.png)
+
 * CWT
 ![cwt](docs/cwt_mexh.png)
+
 * DWT
 ![dwt](docs/dwt_db2.png)
 
